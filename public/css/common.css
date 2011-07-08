@@ -1,0 +1,24 @@
+body { background-color: #F9FAE3; color: #333; }
+body, p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size:   13px;
+  line-height: 18px;
+}
+
+h2{
+  margin-left: 30px;
+}
+
+#content{
+  border: 1px solid #555;
+  background-color: #fff;
+  padding: 10px 40px 20px 40px;
+  margin-left: 30px;
+  width: 700px;
+}
+
+#title{
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
